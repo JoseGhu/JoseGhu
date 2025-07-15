@@ -19,6 +19,15 @@
 
 ---
 
+## 🧠 Sobre mim
+
+- 🔧 Desenvolvedor focado em **C#**, **.NET Framework**, **ASP.NET Core**, **APIs REST**, **SQL Server**
+- 🛠️ Crio soluções eficientes e organizadas, com foco em boas práticas e legibilidade
+- 🌌 Sci-fi nerd que adora codar com trilha sonora épica ao fundo
+- 🎮 Gamer nas horas vagas, coder o tempo todo
+
+---
+
 ## 📌 Projetos em Destaque
 
 🔹 [API de Tarefas com ASP.NET Core](https://github.com/JoseGhu/Crud-React)  
@@ -29,14 +38,7 @@ Frontend com HTML5, CSS3 e JS puro, responsivo e funcional.
 
 ---
 
-## 🧠 Sobre mim
 
-- 🔧 Desenvolvedor focado em **C#**, **.NET Framework**, **ASP.NET Core**, **APIs REST**, **SQL Server**
-- 🛠️ Crio soluções eficientes e organizadas, com foco em boas práticas e legibilidade
-- 🌌 Sci-fi nerd que adora codar com trilha sonora épica ao fundo
-- 🎮 Gamer nas horas vagas, coder o tempo todo
-
----
 
 [![Pacman Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)](https://github.com/Platane/snk)
 
