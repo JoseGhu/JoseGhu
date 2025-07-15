@@ -6,38 +6,6 @@
 
 ---
 
-<h3 align="center">🎮 Modo Dev: LIGADO</h3>
-
-[![Pacman Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)](https://github.com/Platane/snk)
----
-
-## 🧠 Sobre mim
-
-- 🔧 Desenvolvedor focado em **C#**, **.NET Framework**, **ASP.NET Core**, **APIs REST**, **SQL Server**
-- 🛠️ Crio soluções eficientes e organizadas, com foco em boas práticas e legibilidade
-- 🌌 Sci-fi nerd que adora codar com trilha sonora épica ao fundo
-- 🎮 Gamer nas horas vagas, coder o tempo todo
-
----
-
-## 🚀 Skills principais
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,asp,sqlserver,html,css,js,ts,git,docker,vscode,github" />
-</p>
-
----
-
-## 📌 Projetos em Destaque
-
-🔹 [API de Tarefas com ASP.NET Core](https://github.com/JoseGhu/Crud-React)  
-API REST robusta com autenticação JWT, EF Core, e boas práticas de arquitetura.
-
-🔹 [Dashboard Administrativo Web](https://github.com/JoseGhu/CrudAspNet)  
-Frontend com HTML5, CSS3 e JS puro, responsivo e funcional.
-
----
-
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
@@ -55,5 +23,40 @@ Frontend com HTML5, CSS3 e JS puro, responsivo e funcional.
 </p>
 
 ---
+
+## 📌 Projetos em Destaque
+
+🔹 [API de Tarefas com ASP.NET Core](https://github.com/JoseGhu/Crud-React)  
+API REST robusta com autenticação JWT, EF Core, e boas práticas de arquitetura.
+
+🔹 [Dashboard Administrativo Web](https://github.com/JoseGhu/CrudAspNet)  
+Frontend com HTML5, CSS3 e JS puro, responsivo e funcional.
+
+---
+
+## 🧠 Sobre mim
+
+- 🔧 Desenvolvedor focado em **C#**, **.NET Framework**, **ASP.NET Core**, **APIs REST**, **SQL Server**
+- 🛠️ Crio soluções eficientes e organizadas, com foco em boas práticas e legibilidade
+- 🌌 Sci-fi nerd que adora codar com trilha sonora épica ao fundo
+- 🎮 Gamer nas horas vagas, coder o tempo todo
+
+---
+
+
+<h3 align="center">🎮 Modo Dev: LIGADO</h3>
+
+[![Pacman Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)](https://github.com/Platane/snk)
+
+---
+
+## 🚀 Skills principais
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,asp,sqlserver,html,css,js,ts,git,docker,vscode,github" />
+</p>
+
+---
+
 
 <h4 align="center">💻 “Talk is cheap. Show me the code.” – Linus Torvalds</h4>
