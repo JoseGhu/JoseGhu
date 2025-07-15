@@ -4,27 +4,16 @@
   <i>Programador com humor ácido, apaixonado por ficção científica, jogos e tecnologia.</i>
 </p>
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoseGhu&show_icons=true&theme=tokyonight&hide_title=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseGhu&layout=compact&theme=tokyonight" />
-</p>
-
-## 🚀 Skills principais
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,asp,sqlserver,html,css,js,ts,git,docker,vscode,github" />
-</p>
-
----
-
 ## 🧠 Sobre mim
 
 - 🔧 Desenvolvedor focado em **C#**, **.NET Framework**, **ASP.NET Core**, **APIs REST**, **SQL Server**
 - 🛠️ Crio soluções eficientes e organizadas, com foco em boas práticas e legibilidade
 - 🌌 Sci-fi nerd que adora codar com trilha sonora épica ao fundo
 - 🎮 Gamer nas horas vagas, coder o tempo todo
+
+---
+
+[![Pacman Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)](https://github.com/Platane/snk)
 
 ---
 
@@ -38,9 +27,16 @@ Frontend com HTML5, CSS3 e JS puro, responsivo e funcional.
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoseGhu&show_icons=true&theme=tokyonight&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseGhu&layout=compact&theme=tokyonight" />
+</p>
 
+## 🚀 Skills principais
 
-[![Pacman Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)](https://github.com/Platane/snk)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,asp,sqlserver,html,css,js,ts,git,docker,vscode,github" />
+</p>
 
 ---
 
