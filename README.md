@@ -1,19 +1,19 @@
 <h1 align="center">Fala, eu sou o GuGu 👨‍💻</h1>
 
 <p align="center">
-  <i>Programador com humor ácido, apaixonado por sci-fi, games e tecnologia.</i>
+  <i>Programador com humor ácido, apaixonado por ficção científica, jogos e tecnologia.</i>
 </p>
 
 ---
 
-<h3 align="center">🎮 Modo Dev: ON</h3>
+<h3 align="center">🎮 Modo Dev: LIGADO</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/UQJlZ2hj3x9Ta/giphy.gif" width="200" />
+  <img src="https://raw.githubusercontent.com/JoseGhu/assets/main/pacman-terminal.gif" width="220" />
 </p>
 
 <p align="center">
-  <b>Comendo bugs como se fossem snacks... 🐛🍪</b>
+  <b>Comendo bichos como se fossem petiscos... 🐛🍪</b>
 </p>
 
 ---
@@ -57,8 +57,8 @@ Frontend com HTML5, CSS3 e JS puro, responsivo e funcional.
 ## 📫 Onde me encontrar
 
 <p align="left">
-  <a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/seu-perfil"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:j.augustofs2016@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jose-augusto-35869b1a9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
