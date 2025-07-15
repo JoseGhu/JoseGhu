@@ -6,12 +6,22 @@
 
 ---
 
-## 📈 Estatísticas do GitHub
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JoseGhu&show_icons=true&theme=tokyonight&hide_title=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseGhu&layout=compact&theme=tokyonight" />
 </p>
+
+## 🚀 Skills principais
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,asp,sqlserver,html,css,js,ts,git,docker,vscode,github" />
+</p>
+
+---
+
+
+<h4 align="center">💻 “Talk is cheap. Show me the code.” – Linus Torvalds</h4>
+
 
 ---
 
@@ -50,13 +60,4 @@ Frontend com HTML5, CSS3 e JS puro, responsivo e funcional.
 
 ---
 
-## 🚀 Skills principais
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,asp,sqlserver,html,css,js,ts,git,docker,vscode,github" />
-</p>
-
----
-
-
-<h4 align="center">💻 “Talk is cheap. Show me the code.” – Linus Torvalds</h4>
