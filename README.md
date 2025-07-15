@@ -1,8 +1,4 @@
-<h1 align="center">Fala, eu sou o GuGu 👨‍💻</h1>
-
-<p align="center">
-  <i>Programador com humor ácido, apaixonado por ficção científica, jogos e tecnologia.</i>
-</p>
+<h1 align="center">Olá, eu sou o GuGu 👨‍💻</h1>
 
 ## 🧠 Sobre mim
 
