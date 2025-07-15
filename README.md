@@ -9,12 +9,13 @@
 <h3 align="center">🎮 Modo Dev: LIGADO</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JoseGhu/assets/main/pacman-terminal.gif" width="220" />
+  <img src="https://raw.githubusercontent.com/SeuUsuario/assets/main/pacman-terminal.gif" width="220" alt="Pac‑Man terminal dev mode" />
 </p>
 
 <p align="center">
   <b>Comendo bichos como se fossem petiscos... 🐛🍪</b>
 </p>
+
 
 ---
 
