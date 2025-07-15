@@ -38,7 +38,7 @@ Frontend com HTML5, CSS3 e JS puro, responsivo e funcional.
 
 ---
 
-![Pacman](https://github.com/[seu-usuario]/[seu-usuario]/blob/main/images/pacman.gif?raw=true)
+[![Pacman Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)](https://github.com/Platane/snk)
 
 ---
 
