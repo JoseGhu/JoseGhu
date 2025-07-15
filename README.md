@@ -19,21 +19,6 @@
 
 ---
 
-
-<h4 align="center">💻 “Talk is cheap. Show me the code.” – Linus Torvalds</h4>
-
-
----
-
-## 📫 Onde me encontrar
-
-<p align="left">
-  <a href="mailto:j.augustofs2016@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/jose-augusto-35869b1a9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
----
-
 ## 📌 Projetos em Destaque
 
 🔹 [API de Tarefas com ASP.NET Core](https://github.com/JoseGhu/Crud-React)  
@@ -53,11 +38,16 @@ Frontend com HTML5, CSS3 e JS puro, responsivo e funcional.
 
 ---
 
-
-<h3 align="center">🎮 Modo Dev: LIGADO</h3>
-
-[![Pacman Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)](https://github.com/Platane/snk)
+![Pacman](https://github.com/[seu-usuario]/[seu-usuario]/blob/main/images/pacman.gif?raw=true)
 
 ---
+
+## 📫 Onde me encontrar
+
+<p align="left">
+  <a href="mailto:j.augustofs2016@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jose-augusto-35869b1a9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
 
 
