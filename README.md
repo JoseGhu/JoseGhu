@@ -8,14 +8,11 @@
 
 <h3 align="center">🎮 Modo Dev: LIGADO</h3>
 
-<p align="center">
-  <img src="https://media.tenor.com/kfGMcK_M_5UAAAAC/computer-cat.gif" width="220" />
-</p>
-
-<p align="center">
-  <b>Codando igual um felino em fúria... 🐱⌨️🔥</b>
-</p>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 ---
 
 ## 🧠 Sobre mim
